@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Betul Zemheri</h1>
+<h1 align="center">Hi 👋🏻 I'm Betul Zemheri</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🌱 I’m currently learning: **Java script - React - Html - Css - Scss**
